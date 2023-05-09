@@ -1,7 +1,6 @@
 <?php
 
-$arquivo = fopen('cursos-php.txt', 'a');
 
 $curso = "\n". 'Design Patters PHP II: Boas práticas de programação';
 
-fwrite($arquivo, $curso, );
+file_put_contents('cursos-php.txt', $curso, FILE_APPEND);
