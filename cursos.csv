@@ -1,28 +1,14 @@
-"Symphony Parte 1: Cria√ß√£o de uma API Restful
-";Sim
-"Symphony Parte 2: Autentica√ß√£o e HATEOAS
-";Sim
-"PHP Doctrine: Introdu√ß√£o ao Mapeamento Objeto-Relacional
-";Sim
-"Laravel parte 1: Produtividade no desenvolvimento web
-";Sim
-"Laravel Parte 2: Trabalhando com Autentica√ß√£o, Relacionamento e Testes
-";Sim
-"Lumen: API Rest com o Micro-framework do Laravel
-";Sim
-"Introdu√ß√£o ao PHP: Primeiros passos com a linguagem
-";Sim
-"Avan√ßando em PHP: Arrays, String, Fun√ß√£o e Web
-";Sim
-"MVC com PHP: Entenda o padr√£o Model-View-Controller
-";Sim
-"PHP Composer: Depend√™ncias, Autoload e Publica√ß√£o
-";Sim
-"PHP e TDD: Testes com PHPUnit
-";Sim
-"Design Patters PHP I: Boas pr√°ticas de programa√ß√£o
-";N√£o
-"Design Patters PHP II: Boas pr√°ticas de programa√ß√£oCurso de PBO: Persistencia com PHP
-";N√£o
-"PHP base: Conceitos Basicos de PHP
-";N√£o
+"Symphony Parte 1: CriaÁ„o de uma API Restful";Sim
+"Symphony Parte 2: AutenticaÁ„o e HATEOAS";Sim
+"PHP Doctrine: IntroduÁ„o ao Mapeamento Objeto-Relacional";Sim
+"Laravel parte 1: Produtividade no desenvolvimento web";Sim
+"Laravel Parte 2: Trabalhando com AutenticaÁ„o, Relacionamento e Testes";Sim
+"Lumen: API Rest com o Micro-framework do Laravel";Sim
+"IntroduÁ„o ao PHP: Primeiros passos com a linguagem";Sim
+"AvanÁando em PHP: Arrays, String, FunÁ„o e Web";Sim
+"MVC com PHP: Entenda o padr„o Model-View-Controller";Sim
+"PHP Composer: DependÍncias, Autoload e PublicaÁ„o";Sim
+"PHP e TDD: Testes com PHPUnit";Sim
+"Design Patters PHP I: Boas pr·ticas de programaÁ„o";N√£o
+"Design Patters PHP II: Boas pr·ticas de programaÁ„oCurso de PBO: Persistencia com PHP";N√£o
+"PHP base: Conceitos Basicos de PHP";N√£o
